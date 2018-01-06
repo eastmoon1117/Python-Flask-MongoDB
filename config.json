@@ -1,0 +1,3 @@
+app.config['MONGODB_HOST'] = '127.0.0.1'
+app.config['MONGODB_PORT'] = 27017
+app.config['MONGODB_DB'] = 'todoApp'
